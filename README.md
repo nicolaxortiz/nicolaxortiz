@@ -4,7 +4,7 @@
 class WhoAmI {
   constructor() {
     this.name = "Nicolas Ortiz";
-    this.age = 22;
+    this.age = 23
     this.interest: "Front-End";
     this.language: "JavaScript";
     this.hobbies = ['Music', 'VolleyBall', 'Gaming', 'One Piece'];
@@ -20,8 +20,8 @@ class WhoAmI {
 
 ## 🧭 More About Me
 
-- 🎓 I am a student in the School of Systems Engineering of the [`Unidades Tecnologicas de Santander`](https://www.uts.edu.co/sitio/).
-- 💻 I love using Software as a solution for every `Problem`.
+- 🎓 I am a graduate of the Faculty of Engineering at the [`Unidades Tecnologicas de Santander`](https://www.uts.edu.co/sitio/).
+- 💻 I love using Software as a solution for every `problem`.
 - 📖 I am currently learning more about `development architectures` and `secure server implementations`.
 - 🤓 Always `learning new things`.
 - ⭐ I’m currently open for my first `job opportunity`
