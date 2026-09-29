@@ -4,7 +4,7 @@
 class WhoAmI {
   constructor() {
     this.name = "Nicolas Ortiz";
-    this.age = 23
+    this.age = 25
     this.interest: "Front-End";
     this.language: "JavaScript";
     this.hobbies = ['Music', 'VolleyBall', 'Gaming', 'One Piece'];
@@ -24,7 +24,6 @@ class WhoAmI {
 - 💻 I love using Software as a solution for every `problem`.
 - 📖 I am currently learning more about `development architectures` and `secure server implementations`.
 - 🤓 Always `learning new things`.
-- ⭐ I’m currently open for my first `job opportunity`
 <br><br>
 
 
@@ -35,7 +34,7 @@ class WhoAmI {
 
 
 ### Libraries
-<img max-width="250px" src="https://skillicons.dev/icons?i=nodejs,express,react,vite"  />
+<img max-width="250px" src="https://skillicons.dev/icons?i=nodejs,express,react,vue,vite"  />
 
 
 ### Database
@@ -43,7 +42,7 @@ class WhoAmI {
 
 
 ### Tools
-<img max-width="250px" src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,windows"  />
+<img max-width="250px" src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,visualstudio,webstorm,postman,windows,linux"  />
 <br>
 <br>
 
@@ -63,9 +62,6 @@ class WhoAmI {
     </a>
     <a href="mailto:nicolaxortiz@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-    <a href="https://www.discordapp.com/users/nicolaxortiz">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt="Discord Badge"/>
     </a>
     <a href="https://www.instagram.com/nicolaxortiz/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
