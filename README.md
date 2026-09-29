@@ -47,13 +47,6 @@ class WhoAmI {
 <br>
 
 
-## 📊 My Statistics
-
-![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolaxortiz&show_icons=true&theme=github_dark)
-![Ketan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaxortiz&theme=github_dark&layout=compact)
-
-<br>
-
 ## 📫 Connect With Me
 
 <div id="badges" align="center">
