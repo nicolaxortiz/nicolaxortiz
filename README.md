@@ -4,7 +4,7 @@
 class WhoAmI {
   constructor() {
     this.name = "Nicolas Ortiz";
-    this.age = 25
+    this.age = 24
     this.interest: "Front-End";
     this.language: "JavaScript";
     this.hobbies = ['Music', 'VolleyBall', 'Gaming', 'One Piece'];
